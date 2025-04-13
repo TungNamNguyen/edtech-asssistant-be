@@ -27,8 +27,6 @@ You can find the front-end repository here: [Edtech Front-end Repository](https:
 
 # Application Introduction
 
-https://github.com/user-attachments/assets/dece0ded-eff1-4c5f-9665-4fa8f776bfec
-
 # Techstack
 ## Frontend 
 
