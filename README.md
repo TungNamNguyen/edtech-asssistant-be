@@ -5,7 +5,7 @@ You can find the front-end repository here: [Edtech Front-end Repository](https:
 
 # Table of Contents
 
-1. [Application Introduction](#application-introduction)
+1. [Application Introduction]
 2. [Techstack](#techstack)
    - [Frontend](#frontend)
    - [Backend](#backend)
